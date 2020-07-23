@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>499294007130-t5o1idilia9fcb44s2i7e8a4mibjnmot.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.499294007130-t5o1idilia9fcb44s2i7e8a4mibjnmot</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBnog3_k9E8D07F7TyDhUxX0X-cS0w5zvo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>499294007130</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.app.Bthere</string>
+	<key>PROJECT_ID</key>
+	<string>bthere-87c35</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bthere-87c35.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:499294007130:ios:e1af10bfc9497c71a74d63</string>
+	<key>DATABASE_URL</key>
+	<string>https://bthere-87c35.firebaseio.com</string>
+</dict>
+</plist>
